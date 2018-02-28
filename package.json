@@ -1,0 +1,21 @@
+{
+  "name": "traversymean",
+  "version": "1.0.0",
+  "description": "Mean App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs" : "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Karen",
+  "license": "ISC"
+}
